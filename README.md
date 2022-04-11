@@ -25,7 +25,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/akki01133/interactive-rating-component-main/)
-- Live Site URL: [Add live site URL here](https://akki01133.github.com/interactive-rating-component-main/)
+- Live Site URL: [Add live site URL here](https://akki01133.github.io/interactive-rating-component-main/)
 
 ## My process
 
